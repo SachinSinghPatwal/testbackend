@@ -2,7 +2,7 @@
   "name": "ws101",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "dev": "nodemon --watch src --ext ts --exec \"tsx src/index.ts\"",
     "build": "tsc",
